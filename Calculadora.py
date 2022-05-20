@@ -25,13 +25,13 @@ app.resizable(1,1)
 
 app.iconbitmap('icono.ico')
 
-app.geometry('600x450')
+app.geometry('800x500')
 
 #app.config(bg='linen')
 
 
-fuenteapp = tkFont.Font(font=("Arial", 8))
-fuenteappline = tkFont.Font(font=("Arial", 8),underline=1)
+fuenteapp = tkFont.Font(font=("Arial", 12))
+fuenteappline = tkFont.Font(font=("Arial", 12),underline=1)
 
 ######################CONFIGURACION#########################
 
